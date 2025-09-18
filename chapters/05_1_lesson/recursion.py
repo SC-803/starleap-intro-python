@@ -16,7 +16,5 @@ def countdown(n, verbose = False):
         print('Ending countdown() called with argument: n = ', n)
 
 print("\nCountdown:")
-countdown(10)
+countdown(100)
 
-print("\nCountdown with details:")
-countdown(5, verbose=True)
