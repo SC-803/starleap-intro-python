@@ -28,6 +28,6 @@ print("********** Homework 1 Exercise 3 **********")
 
 # Do your work for Excercise 3 here
 
-def_rules():
+
 
 
